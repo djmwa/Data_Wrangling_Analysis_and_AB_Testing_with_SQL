@@ -18,4 +18,4 @@ Katrina Glaeser Poole
 Part of [Learn SQL Basics for Data Science Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science)
 
 **Data Source** <br>
-Original coding was done on [Mode](https://app.mode.com/), and data is included there. A free account is required to access the code environment. Any additional sources of data will be noted in comments at the start of the corresponding project.
+Original coding was done on [Mode](https://app.mode.com/), and data for these queries is included there. A free account is required to access the code environment.
