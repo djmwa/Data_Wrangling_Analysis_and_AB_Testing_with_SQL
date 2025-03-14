@@ -119,7 +119,6 @@ SELECT
     THEN orders.price 
     ELSE 0 
   END) AS revenue_after_assignment
-
 FROM 
   (SELECT 
     event_id,
