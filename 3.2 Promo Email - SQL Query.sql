@@ -1,5 +1,3 @@
---[Mode](https://app.mode.com/) is the only data source used for this project.
-
 --Goal:
 --Exercise 1: Create subtable for recently viewed events using view_item_events table
 
